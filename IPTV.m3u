@@ -13,9 +13,9 @@ https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXzona/mono.m3u8
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXzonab/mono.m3u8
 #EXTINF:-1 tvg-id="Sportitalia" group-title="",Sportitalia
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXsportitalia/mono.m3u8
-#EXTINF:-1 tvg-id="La Li" group-title="",La Li
+#EXTINF:-1 tvg-id="LigaES" group-title="",La Li
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXlaliga/mono.m3u8
-#EXTINF:-1 tvg-id="La Li+" group-title="",La Li+
+#EXTINF:-1 tvg-id="LigaES 2" group-title="",La Li+
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXlaliga1/mono.m3u8
 #EXTINF:-1 tvg-id="Sky Sport" group-title="",Sky Sport
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXskysport/mono.m3u8
@@ -53,8 +53,6 @@ https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXskysport257/mono.m3u8
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXsky258/mono.m3u8
 #EXTINF:-1 tvg-id="Sky 259" group-title="",Sky 259
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXsky259/mono.m3u8
-#EXTINF:-1 tvg-id="calcioXspezia" group-title="",calcioXspezia
-https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXspezia/mono.m3u8
 #EXTINF:-1 tvg-id="Sky Uno" group-title="",Sky Uno
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXskyuno/mono.m3u8
 #EXTINF:-1 tvg-id="Sky Serie" group-title="",Sky Serie
@@ -75,35 +73,25 @@ https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXskyinvestigation/mono.m3u8
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXskynature/mono.m3u8
 #EXTINF:-1 tvg-id="History Channel" group-title="",History Channel
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXhistory/mono.m3u8
-#EXTINF:-1 tvg-id="calcioXcatan" group-title="",calcioXcatan
-https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXcatan/mono.m3u8
-#EXTINF:-1 tvg-id="calcioXcitta" group-title="",calcioXcitta
-https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXcitta/mono.m3u8
 #EXTINF:-1 tvg-id="calcioXefl" group-title="",calcioXefl
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXefl/mono.m3u8
 #EXTINF:-1 tvg-id="calcioXfrancia" group-title="",calcioXfrancia
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXfrancia/mono.m3u8
-#EXTINF:-1 tvg-id="calcioXfrosi" group-title="",calcioXfrosi
-https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXfrosi/mono.m3u8
 #EXTINF:-1 tvg-id="calcioXjuve" group-title="",calcioXjuve
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXjuve/mono.m3u8
 #EXTINF:-1 tvg-id="calcioXporto" group-title="",calcioXporto
 https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXporto/mono.m3u8
-#EXTINF:-1 tvg-id="calcioXsamp" group-title="",calcioXsamp
-https://top1-cdnnew.koskoros.ru/top1-cdn/calcioXsamp/mono.m3u8
-#EXTINF:-1 tvg-id="morsi105" group-title="",morsi105
+#EXTINF:-1 tvg-id="BeIN Sports 1" group-title="",BeIN Sports 1
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi105/mono.m3u8
-#EXTINF:-1 tvg-id="morsi106" group-title="",morsi106
+#EXTINF:-1 tvg-id="BeIN Sports 2" group-title="",BeIN Sports 2
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi106/mono.m3u8
-#EXTINF:-1 tvg-id="morsi107" group-title="",morsi107
+#EXTINF:-1 tvg-id="Ziggo Sport 2" group-title="",Ziggo Sport 2
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi107/mono.m3u8
-#EXTINF:-1 tvg-id="morsi108" group-title="",morsi108
-https://top1-cdnnew.koskoros.ru/top1-cdn/morsi108/mono.m3u8
-#EXTINF:-1 tvg-id="morsi18" group-title="",morsi18
+#EXTINF:-1 tvg-id="Sport TV Ao Vivo" group-title="",Sport TV Ao Vivo
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi18/mono.m3u8
-#EXTINF:-1 tvg-id="morsi28" group-title="",morsi28
+#EXTINF:-1 tvg-id="Cosmote Sport 1" group-title="",Cosmote Sport 1 
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi28/mono.m3u8
-#EXTINF:-1 tvg-id="morsi33" group-title="",morsi33
+#EXTINF:-1 tvg-id="DAZN ES" group-title="",DAZN ES
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi33/mono.m3u8
 #EXTINF:-1 tvg-id="morsi39" group-title="",morsi39
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi39/mono.m3u8
@@ -111,35 +99,31 @@ https://top1-cdnnew.koskoros.ru/top1-cdn/morsi39/mono.m3u8
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi43/mono.m3u8
 #EXTINF:-1 tvg-id="morsi44" group-title="",morsi44
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi44/mono.m3u8
-#EXTINF:-1 tvg-id="morsi45" group-title="",morsi45
+#EXTINF:-1 tvg-id="+FOOT" group-title="",+FOOT
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi45/mono.m3u8
 #EXTINF:-1 tvg-id="morsi48" group-title="",morsi48
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi48/mono.m3u8
-#EXTINF:-1 tvg-id="morsi49" group-title="",morsi49
+#EXTINF:-1 tvg-id="DIEMA Sport" group-title="",DIEMA Sport
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi49/mono.m3u8
 #EXTINF:-1 tvg-id="morsi52" group-title="",morsi52
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi52/mono.m3u8
 #EXTINF:-1 tvg-id="morsi54" group-title="",morsi54
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi54/mono.m3u8
-#EXTINF:-1 tvg-id="morsi57" group-title="",morsi57
+#EXTINF:-1 tvg-id="MAX Sport 1" group-title="",MAX Sport 1
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi57/mono.m3u8
-#EXTINF:-1 tvg-id="morsi65" group-title="",morsi65
+#EXTINF:-1 tvg-id="+SPORT 360" group-title="",+SPORT 360
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi65/mono.m3u8
 #EXTINF:-1 tvg-id="morsi68" group-title="",morsi68
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi68/mono.m3u8
 #EXTINF:-1 tvg-id="morsi84" group-title="",morsi84
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi84/mono.m3u8
-#EXTINF:-1 tvg-id="morsi96" group-title="",morsi96
-https://top1-cdnnew.koskoros.ru/top1-cdn/morsi96/mono.m3u8
-#EXTINF:-1 tvg-id="morsi97" group-title="",morsi97
-https://top1-cdnnew.koskoros.ru/top1-cdn/morsi97/mono.m3u8
 #EXTINF:-1 tvg-id="morsi99" group-title="",morsi99
 https://top1-cdnnew.koskoros.ru/top1-cdn/morsi99/mono.m3u8
-#EXTINF:-1 tvg-id="sabrouch101" group-title="",sabrouch101
+#EXTINF:-1 tvg-id="Polsat Sport 2" group-title="",Polsat Sport 2
 https://top1-cdnnew.koskoros.ru/top1-cdn/sabrouch101/mono.m3u8
-#EXTINF:-1 tvg-id="sabrouch116" group-title="",sabrouch116
+#EXTINF:-1 tvg-id="DAZN BE" group-title="",DAZN BE
 https://top1-cdnnew.koskoros.ru/top1-cdn/sabrouch116/mono.m3u8
-#EXTINF:-1 tvg-id="sabrouch136" group-title="",sabrouch136
+#EXTINF:-1 tvg-id="Arena Sport 1" group-title="",Arena Sport 1
 https://top1-cdnnew.koskoros.ru/top1-cdn/sabrouch136/mono.m3u8
 #EXTINF:-1 tvg-id="sabrouch147" group-title="",sabrouch147
 https://top1-cdnnew.koskoros.ru/top1-cdn/sabrouch147/mono.m3u8
