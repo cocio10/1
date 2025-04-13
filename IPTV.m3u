@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EVENTO" group-title="",EVENTO
+https://hls.kangal.icu/hls/juve/index.m3u8
 #EXTINF:-1 tvg-id="Serie A" group-title="",Serie A
 https://top1-cdnnew.newkso.ru/top1-cdn/calcioXserie/mono.m3u8
 #EXTINF:-1 tvg-id="Serie A 2" group-title="",Serie A 2
