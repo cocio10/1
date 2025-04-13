@@ -1,292 +1,106 @@
 #EXTM3U
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/Bari/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/brescia/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/bundes/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1ac/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1comedycentral/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1eurosport1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1eurosport2/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1formula1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1history/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1seriesi/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1sky258/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1sky259/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skyatlantic/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemacollection/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemacomedy/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemadrama/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemadue/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemafamily/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemaromance/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemasuspence/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycinemauno/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skycrime/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skydocumentaries/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skyinvestigation/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skynature/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skyserie/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport24/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport251/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport252/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport253/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport254/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport255/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysport257/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportarena/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportcalcio/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportgolf/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportmax/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportmotogp/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportnba/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysporttennis/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skysportuno/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioX1skyuno/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2ac
 http://calcionew.newkso.ru/calcio/calcioX2ac/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2comedycentral
 http://calcionew.newkso.ru/calcio/calcioX2comedycentral/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2eurosport1
 http://calcionew.newkso.ru/calcio/calcioX2eurosport1/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2eurosport2
 http://calcionew.newkso.ru/calcio/calcioX2eurosport2/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2formula
 http://calcionew.newkso.ru/calcio/calcioX2formula/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2formula1
 http://calcionew.newkso.ru/calcio/calcioX2formula1/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2history
 http://calcionew.newkso.ru/calcio/calcioX2history/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2laliga
 http://calcionew.newkso.ru/calcio/calcioX2laliga/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2porto
 http://calcionew.newkso.ru/calcio/calcioX2porto/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2portugal
 http://calcionew.newkso.ru/calcio/calcioX2portugal/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2serie
 http://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2serie1
 http://calcionew.newkso.ru/calcio/calcioX2serie1/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2seriesi
 http://calcionew.newkso.ru/calcio/calcioX2seriesi/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2sky258
 http://calcionew.newkso.ru/calcio/calcioX2sky258/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2sky259
 http://calcionew.newkso.ru/calcio/calcioX2sky259/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skyarte
 http://calcionew.newkso.ru/calcio/calcioX2skyarte/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skyatlantic
 http://calcionew.newkso.ru/calcio/calcioX2skyatlantic/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemacollection
 http://calcionew.newkso.ru/calcio/calcioX2skycinemacollection/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemacomedy
 http://calcionew.newkso.ru/calcio/calcioX2skycinemacomedy/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemadrama
 http://calcionew.newkso.ru/calcio/calcioX2skycinemadrama/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemadue
 http://calcionew.newkso.ru/calcio/calcioX2skycinemadue/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemafamily
 http://calcionew.newkso.ru/calcio/calcioX2skycinemafamily/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemaromance
 http://calcionew.newkso.ru/calcio/calcioX2skycinemaromance/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemasuspence
 http://calcionew.newkso.ru/calcio/calcioX2skycinemasuspence/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycinemauno
 http://calcionew.newkso.ru/calcio/calcioX2skycinemauno/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skycrime
 http://calcionew.newkso.ru/calcio/calcioX2skycrime/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skydocumentaries
 http://calcionew.newkso.ru/calcio/calcioX2skydocumentaries/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skyinvestigation
 http://calcionew.newkso.ru/calcio/calcioX2skyinvestigation/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skynature
 http://calcionew.newkso.ru/calcio/calcioX2skynature/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skyserie
 http://calcionew.newkso.ru/calcio/calcioX2skyserie/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport24
 http://calcionew.newkso.ru/calcio/calcioX2skysport24/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport251
 http://calcionew.newkso.ru/calcio/calcioX2skysport251/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport252
 http://calcionew.newkso.ru/calcio/calcioX2skysport252/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport253
 http://calcionew.newkso.ru/calcio/calcioX2skysport253/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport254
 http://calcionew.newkso.ru/calcio/calcioX2skysport254/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport255
 http://calcionew.newkso.ru/calcio/calcioX2skysport255/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport256
 http://calcionew.newkso.ru/calcio/calcioX2skysport256/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysport257
 http://calcionew.newkso.ru/calcio/calcioX2skysport257/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportarena
 http://calcionew.newkso.ru/calcio/calcioX2skysportarena/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportcalcio
 http://calcionew.newkso.ru/calcio/calcioX2skysportcalcio/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportgolf
 http://calcionew.newkso.ru/calcio/calcioX2skysportgolf/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportmax
 http://calcionew.newkso.ru/calcio/calcioX2skysportmax/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportmotogp
 http://calcionew.newkso.ru/calcio/calcioX2skysportmotogp/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportnba
 http://calcionew.newkso.ru/calcio/calcioX2skysportnba/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysporttennis
 http://calcionew.newkso.ru/calcio/calcioX2skysporttennis/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skysportuno
 http://calcionew.newkso.ru/calcio/calcioX2skysportuno/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2skyuno
 http://calcionew.newkso.ru/calcio/calcioX2skyuno/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2solocalcio
 http://calcionew.newkso.ru/calcio/calcioX2solocalcio/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2sportitalia
 http://calcionew.newkso.ru/calcio/calcioX2sportitalia/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2zona
 http://calcionew.newkso.ru/calcio/calcioX2zona/mono.m3u8
-#EXTINF:-1,
+#EXTINF:-1, calcioX2zonab
 http://calcionew.newkso.ru/calcio/calcioX2zonab/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXac/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXcomedycentral/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXeurosport1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXeurosport2/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXformula1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXhistory/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXseriesi/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXsky258/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXsky259/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskyarte/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskyatlantic/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemacollection/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemacomedy/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemadrama/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemadue/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemafamily/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemaromance/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemasuspence/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycinemauno/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskycrime/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskydocumentaries/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskyinvestigation/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskynature/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskyserie/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport24/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport251/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport252/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport253/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport254/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport255/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport256/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysport257/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportarena/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportcalcio/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportgolf/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportmax/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportmotogp/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportnba/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysporttennis/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskysportuno/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/calcioXskyuno/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/catan/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/cesena/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/Dazn1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/juve/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/ligue1/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/pisa/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/saler/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/samp/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/sass/mono.m3u8
-#EXTINF:-1,
-http://calcionew.newkso.ru/calcio/spezia/mono.m3u8
 #EXTINF:-1 tvg-id="Serie A" group-title="",Serie A
 https://top1-cdnnew.newkso.ru/top1-cdn/calcioXserie/mono.m3u8
 #EXTINF:-1 tvg-id="Serie A 2" group-title="",Serie A 2
