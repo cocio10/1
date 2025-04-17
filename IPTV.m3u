@@ -1,102 +1,96 @@
 #EXTM3U
 # === CALCIO ===
-#EXTINF:-1, Serie A Calcio
+#EXTINF:-1 group-title="Calcio", Serie A Calcio
 http://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
-#EXTINF:-1, Serie A Calcio 1
+#EXTINF:-1 group-title="Calcio", Serie A Calcio 1
 http://calcionew.newkso.ru/calcio/calcioX2serie1/mono.m3u8
-#EXTINF:-1, Zona DAZN
+#EXTINF:-1 group-title="Calcio", Zona DAZN
 http://calcionew.newkso.ru/calcio/calcioX2zona/mono.m3u8
-#EXTINF:-1, Zona Serie B
+#EXTINF:-1 group-title="Calcio", Zona Serie B
 http://calcionew.newkso.ru/calcio/calcioX2zonab/mono.m3u8
-#EXTINF:-1, La Liga
+#EXTINF:-1 group-title="Calcio", La L!ga
 http://calcionew.newkso.ru/calcio/calcioX2laliga/mono.m3u8
-#EXTINF:-1, Porto TV
-http://calcionew.newkso.ru/calcio/calcioX2porto/mono.m3u8
-#EXTINF:-1, Portugal TV
-http://calcionew.newkso.ru/calcio/calcioX2portugal/mono.m3u8
-#EXTINF:-1, Sportitalia
-http://calcionew.newkso.ru/calcio/calcioX2sportitalia/mono.m3u8
-#EXTINF:-1, Sky Sport 251
+#EXTINF:-1 group-title="Calcio", Sky Sport 251
 http://calcionew.newkso.ru/calcio/calcioX2skysport251/mono.m3u8
-#EXTINF:-1, Sky Sport 252
+#EXTINF:-1 group-title="Calcio", Sky Sport 252
 http://calcionew.newkso.ru/calcio/calcioX2skysport252/mono.m3u8
-#EXTINF:-1, Sky Sport 253
+#EXTINF:-1 group-title="Calcio", Sky Sport 253
 http://calcionew.newkso.ru/calcio/calcioX2skysport253/mono.m3u8
-#EXTINF:-1, Sky Sport 254
+#EXTINF:-1 group-title="Calcio", Sky Sport 254
 http://calcionew.newkso.ru/calcio/calcioX2skysport254/mono.m3u8
-#EXTINF:-1, Sky Sport 255
+#EXTINF:-1 group-title="Calcio", Sky Sport 255
 http://calcionew.newkso.ru/calcio/calcioX2skysport255/mono.m3u8
-#EXTINF:-1, Sky Sport 256
+#EXTINF:-1 group-title="Calcio", Sky Sport 256
 http://calcionew.newkso.ru/calcio/calcioX2skysport256/mono.m3u8
-#EXTINF:-1, Sky Sport 257
+#EXTINF:-1 group-title="Calcio", Sky Sport 257
 http://calcionew.newkso.ru/calcio/calcioX2skysport257/mono.m3u8
-#EXTINF:-1, Sky 258
+#EXTINF:-1 group-title="Calcio", Sky Sport 258
 http://calcionew.newkso.ru/calcio/calcioX2sky258/mono.m3u8
-#EXTINF:-1, Sky 259
+#EXTINF:-1 group-title="Calcio", Sky Sport 259
 http://calcionew.newkso.ru/calcio/calcioX2sky259/mono.m3u8
 
 # === SPORT ===
-#EXTINF:-1, Eurosport 1
+#EXTINF:-1 group-title="Sport", Eurosport 1
 http://calcionew.newkso.ru/calcio/calcioX2eurosport1/mono.m3u8
-#EXTINF:-1, Eurosport 2
+#EXTINF:-1 group-title="Sport", Eurosport 2
 http://calcionew.newkso.ru/calcio/calcioX2eurosport2/mono.m3u8
-#EXTINF:-1, Sky Sport 24
+#EXTINF:-1 group-title="Sport", Sky Sport 24
 http://calcionew.newkso.ru/calcio/calcioX2skysport24/mono.m3u8
-#EXTINF:-1, Sky Sport Arena
+#EXTINF:-1 group-title="Sport", Sky Sport Arena
 http://calcionew.newkso.ru/calcio/calcioX2skysportarena/mono.m3u8
-#EXTINF:-1, Sky Sport Calcio
+#EXTINF:-1 group-title="Sport", Sky Sport Calcio
 http://calcionew.newkso.ru/calcio/calcioX2skysportcalcio/mono.m3u8
-#EXTINF:-1, Sky Sport Golf
+#EXTINF:-1 group-title="Sport", Sky Sport Golf
 http://calcionew.newkso.ru/calcio/calcioX2skysportgolf/mono.m3u8
-#EXTINF:-1, Sky Sport Max
+#EXTINF:-1 group-title="Sport", Sky Sport Max
 http://calcionew.newkso.ru/calcio/calcioX2skysportmax/mono.m3u8
-#EXTINF:-1, Sky Sport MotoGP
+#EXTINF:-1 group-title="Sport", Sky Sport MotoGP
 http://calcionew.newkso.ru/calcio/calcioX2skysportmotogp/mono.m3u8
-#EXTINF:-1, Sky Sport NBA
+#EXTINF:-1 group-title="Sport", Sky Sport NBA
 http://calcionew.newkso.ru/calcio/calcioX2skysportnba/mono.m3u8
-#EXTINF:-1, Sky Sport Tennis
+#EXTINF:-1 group-title="Sport", Sky Sport Tennis
 http://calcionew.newkso.ru/calcio/calcioX2skysporttennis/mono.m3u8
-#EXTINF:-1, Sky Sport Uno
+#EXTINF:-1 group-title="Sport", Sky Sport Uno
 http://calcionew.newkso.ru/calcio/calcioX2skysportuno/mono.m3u8
-#EXTINF:-1, Formula
+#EXTINF:-1 group-title="Sport", Formula
 http://calcionew.newkso.ru/calcio/calcioX2formula/mono.m3u8
-#EXTINF:-1, Formula 1
+#EXTINF:-1 group-title="Sport", Formula 1
 http://calcionew.newkso.ru/calcio/calcioX2formula1/mono.m3u8
 
 # === INTRATTENIMENTO & DOCUMENTARI ===
-#EXTINF:-1, Sky Uno
+#EXTINF:-1 group-title="Intrattenimento", Sky Uno
 http://calcionew.newkso.ru/calcio/calcioX2skyuno/mono.m3u8
-#EXTINF:-1, Comedy Central
+#EXTINF:-1 group-title="Intrattenimento", Comedy Central
 http://calcionew.newkso.ru/calcio/calcioX2comedycentral/mono.m3u8
-#EXTINF:-1, Sky Atlantic
+#EXTINF:-1 group-title="Intrattenimento", Sky Atlantic
 http://calcionew.newkso.ru/calcio/calcioX2skyatlantic/mono.m3u8
-#EXTINF:-1, Sky Arte
+#EXTINF:-1 group-title="Intrattenimento", Sky Arte
 http://calcionew.newkso.ru/calcio/calcioX2skyarte/mono.m3u8
-#EXTINF:-1, Sky Serie
+#EXTINF:-1 group-title="Intrattenimento", Sky Serie
 http://calcionew.newkso.ru/calcio/calcioX2skyserie/mono.m3u8
-#EXTINF:-1, Sky Crime
+#EXTINF:-1 group-title="Intrattenimento", Sky Crime
 http://calcionew.newkso.ru/calcio/calcioX2skycrime/mono.m3u8
-#EXTINF:-1, Sky Investigation
+#EXTINF:-1 group-title="Intrattenimento", Sky Investigation
 http://calcionew.newkso.ru/calcio/calcioX2skyinvestigation/mono.m3u8
-#EXTINF:-1, Sky Documentaries
+#EXTINF:-1 group-title="Intrattenimento", Sky Documentaries
 http://calcionew.newkso.ru/calcio/calcioX2skydocumentaries/mono.m3u8
-#EXTINF:-1, Sky Nature
+#EXTINF:-1 group-title="Intrattenimento", Sky Nature
 http://calcionew.newkso.ru/calcio/calcioX2skynature/mono.m3u8
 
 # === CINEMA ===
-#EXTINF:-1, Sky Cinema Uno
+#EXTINF:-1 group-title="Cinema", Sky Cinema Uno
 http://calcionew.newkso.ru/calcio/calcioX2skycinemauno/mono.m3u8
-#EXTINF:-1, Sky Cinema Due
+#EXTINF:-1 group-title="Cinema", Sky Cinema Due
 http://calcionew.newkso.ru/calcio/calcioX2skycinemadue/mono.m3u8
-#EXTINF:-1, Sky Cinema Collection
+#EXTINF:-1 group-title="Cinema", Sky Cinema Collection
 http://calcionew.newkso.ru/calcio/calcioX2skycinemacollection/mono.m3u8
-#EXTINF:-1, Sky Cinema Comedy
+#EXTINF:-1 group-title="Cinema", Sky Cinema Comedy
 http://calcionew.newkso.ru/calcio/calcioX2skycinemacomedy/mono.m3u8
-#EXTINF:-1, Sky Cinema Drama
+#EXTINF:-1 group-title="Cinema", Sky Cinema Drama
 http://calcionew.newkso.ru/calcio/calcioX2skycinemadrama/mono.m3u8
-#EXTINF:-1, Sky Cinema Family
+#EXTINF:-1 group-title="Cinema", Sky Cinema Family
 http://calcionew.newkso.ru/calcio/calcioX2skycinemafamily/mono.m3u8
-#EXTINF:-1, Sky Cinema Romance
+#EXTINF:-1 group-title="Cinema", Sky Cinema Romance
 http://calcionew.newkso.ru/calcio/calcioX2skycinemaromance/mono.m3u8
-#EXTINF:-1, Sky Cinema Suspense
+#EXTINF:-1 group-title="Cinema", Sky Cinema Suspense
 http://calcionew.newkso.ru/calcio/calcioX2skycinemasuspence/mono.m3u8
