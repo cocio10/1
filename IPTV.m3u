@@ -1,15 +1,9 @@
 #EXTM3U
 # === CALCIO ===
-#EXTINF:-1, Solo Calcio
-http://calcionew.newkso.ru/calcio/calcioX2solocalcio/mono.m3u8
-#EXTINF:-1, AC Calcio
-http://calcionew.newkso.ru/calcio/calcioX2ac/mono.m3u8
 #EXTINF:-1, Serie A Calcio
 http://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
 #EXTINF:-1, Serie A Calcio 1
 http://calcionew.newkso.ru/calcio/calcioX2serie1/mono.m3u8
-#EXTINF:-1, Serie SI
-http://calcionew.newkso.ru/calcio/calcioX2seriesi/mono.m3u8
 #EXTINF:-1, Zona DAZN
 http://calcionew.newkso.ru/calcio/calcioX2zona/mono.m3u8
 #EXTINF:-1, Zona Serie B
