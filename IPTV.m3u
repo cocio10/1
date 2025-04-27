@@ -10,7 +10,7 @@ http://calcionew.newkso.ru/calcio/calcioX2zona/mono.m3u8
 http://calcionew.newkso.ru/calcio/calcioX2zonab/mono.m3u8
 #EXTINF:-1 group-title="Calcio", La L!ga
 http://calcionew.newkso.ru/calcio/calcioX2laliga/mono.m3u8
-#EXTINF:-1 group-title="Sport", Sky Sport Calcio
+#EXTINF:-1 group-title="Calcio", Sky Sport Calcio
 http://calcionew.newkso.ru/calcio/calcioX2skysportcalcio/mono.m3u8 
 #EXTINF:-1 group-title="Calcio", Sky Sport 251
 http://calcionew.newkso.ru/calcio/calcioX2skysport251/mono.m3u8
@@ -57,7 +57,7 @@ http://calcionew.newkso.ru/calcio/calcioX2formula/mono.m3u8
 #EXTINF:-1 group-title="Sport", Formula 1
 http://calcionew.newkso.ru/calcio/calcioX2formula1/mono.m3u8
 
-# === INTRATTENIMENTO & DOCUMENTARI ===
+#EXTINF:-1,  === INTRATTENIMENTO ===
 #EXTINF:-1 group-title="Intrattenimento", Sky Uno
 http://calcionew.newkso.ru/calcio/calcioX2skyuno/mono.m3u8
 #EXTINF:-1 group-title="Intrattenimento", Comedy Central
@@ -77,7 +77,7 @@ http://calcionew.newkso.ru/calcio/calcioX2skydocumentaries/mono.m3u8
 #EXTINF:-1 group-title="Intrattenimento", Sky Nature
 http://calcionew.newkso.ru/calcio/calcioX2skynature/mono.m3u8
 
-# === CINEMA ===
+#EXTINF:-1,  === CINEMA ===
 #EXTINF:-1 group-title="Cinema", Sky Cinema Uno
 http://calcionew.newkso.ru/calcio/calcioX2skycinemauno/mono.m3u8
 #EXTINF:-1 group-title="Cinema", Sky Cinema Due
