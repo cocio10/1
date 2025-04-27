@@ -1,5 +1,5 @@
 #EXTM3U
-# === CALCIO ===
+#EXTINF:-1, === CALCIO ===
 #EXTINF:-1 group-title="Calcio", Serie A Calcio
 http://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
 #EXTINF:-1 group-title="Calcio", Serie A Calcio 1
