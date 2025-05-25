@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, === CALCIO === 
-#EXTINF:-1, Home
+#EXTINF:-1, Calcio
 https://hls.kangal.icu/hls/serieb/index.m3u8
 #EXTINF:-1 group-title="Calcio", Serie A 1
 http://calcionew.newkso.ru/calcio/calcioX2serie/mono.m3u8
